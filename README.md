@@ -5,9 +5,9 @@
 ### Le répertoire open-source des **vraies** offres d'Alternance et de Stage en France, propulsé par [JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 [![Offres Actives](https://img.shields.io/badge/Offres_actives-1_500-2EC4B6?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Alternances](https://img.shields.io/badge/Alternances-837-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Stages](https://img.shields.io/badge/Stages-663-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--09-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Alternances](https://img.shields.io/badge/Alternances-836-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Stages](https://img.shields.io/badge/Stages-664-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--10-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 **[⚡ Ouvrir le Radar Interactif + Auto-Apply 1-Clic sur JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)**
 
@@ -29,10 +29,10 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 - [💻 Tech, Data & IA (Développement, Data Science, Cybersécurité, Produit)](#tech) (171 offres)
 - [🏦 Finance, Audit & Contrôle de Gestion](#finance) (42 offres)
-- [📣 Marketing, Digital, Communication & Growth](#marketing) (107 offres)
+- [📣 Marketing, Digital, Communication & Growth](#marketing) (106 offres)
 - [🤝 Commerce, Business Development & Achats](#commerce) (987 offres)
 - [⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique](#ingenierie) (112 offres)
-- [✨ Luxe, Mode, Retail & Cosmétique](#luxe) (11 offres)
+- [✨ Luxe, Mode, Retail & Cosmétique](#luxe) (12 offres)
 - [👥 Ressources Humaines, Talent Acquisition & Juridique](#rh) (70 offres)
 
 ---
@@ -140,7 +140,6 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 | Entreprise | Poste | Contrat | Ville | Candidature |
 | :--- | :--- | :--- | :--- | :--- |
-| **Deliveroo** | Assistant·e Chef de Projet Marketing - alternance | 🎓 Alternance | Paris | [Postuler](https://job-boards.greenhouse.io/deliveroo/jobs/8305505) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Assistant%C2%B7e+Chef+de+Projet+Marketing+-+alternance+Deliveroo&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Mirakl** | Brand Design Intern or Apprentice | 💼 Stage | Paris | [Postuler](https://job-boards.greenhouse.io/mirakl/jobs/6212914004) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Brand+Design+Intern+or+Apprentice+Mirakl&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **INA** | Alternance - Chargé.e de communication digitale corporate (H/F) | 🎓 Alternance | Bry-sur-Marne | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/79yoqrhq4n8/alternance-charge-e-de-communication-digitale-corporate) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Alternance+-+Charg%C3%A9.e+de+communication+digitale+corporate+%28H%2FF%29+INA&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **IES INGREDIENTS** | Alternant Graphiste et Communication visuelle (H/F) | 🎓 Alternance | Allauch | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/hdh2qsnqeo8/alternant-graphiste-et-communication-visuelle-h-f) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Alternant+Graphiste+et+Communication+visuelle+%28H%2FF%29+IES+INGREDIENTS&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
@@ -180,6 +179,7 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | <img src="https://www.google.com/s2/favicons?domain=recrutement.ldc.fr&sz=128" width="18" height="18" align="absmiddle" /> **LDC** | Alternant Communication  H/F | 🎓 Alternance | Mirebeau | [Postuler](https://recrutement.ldc.fr/fr/annonce/4636079-alternant-communication-hf-86110-mirebeau) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Alternant+Communication++H%2FF+LDC&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=careers.groupepvcp.com&sz=128" width="18" height="18" align="absmiddle" /> **Groupe PVCP** | STAGE - Assistant Brand Manager H/F | 💼 Stage | Paris | [Postuler](https://careers.groupepvcp.com/fr/annonce/4579149-stage-assistant-brand-manager-hf-paris) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=STAGE+-+Assistant+Brand+Manager+H%2FF+Groupe+PVCP&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=careers.groupepvcp.com&sz=128" width="18" height="18" align="absmiddle" /> **Groupe PVCP** | Stage Social Media / Communicatie per Februari - De Eemhof | 💼 Stage | Zeewolde | [Postuler](https://careers.groupepvcp.com/fr/annonce/4626247-stage-social-media-communicatie-per-februari-de-eemhof-3896-ld-zeewolde) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Stage+Social+Media+%2F+Communicatie+per+Februari+-+De+Eemhof+Groupe+PVCP&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
+| <img src="https://www.google.com/s2/favicons?domain=careers.groupepvcp.com&sz=128" width="18" height="18" align="absmiddle" /> **Groupe PVCP** | Stage Internal Communications and Employee Engagement Officer  Februari 2027 | 💼 Stage | Capelle aan den IJssel | [Postuler](https://careers.groupepvcp.com/fr/annonce/4653111-stage-internal-communications-and-employee-engagement-officer-februari-2027-2909-lk-capelle-aan-den-ijssel) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=marketing&q=Stage+Internal+Communications+and+Employee+Engagement+Officer++Februari+2027+Groupe+PVCP&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 
 <a id="commerce"></a>
 ## 🤝 Commerce, Business Development & Achats
@@ -284,6 +284,7 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 | Entreprise | Poste | Contrat | Ville | Candidature |
 | :--- | :--- | :--- | :--- | :--- |
+| **Artefact** | Intern - E-retail Consultant - Paris | 💼 Stage | 9th arrondissement of Paris | [Postuler](https://job-boards.greenhouse.io/artefact/jobs/7941436002) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=luxe&q=Intern+-+E-retail+Consultant+-+Paris+Artefact&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=careers.groupepvcp.com&sz=128" width="18" height="18" align="absmiddle" /> **Groupe PVCP** | Stage Retail & Shops bij Center Parcs De Huttenheugte | 💼 Stage | Dalen | [Postuler](https://careers.groupepvcp.com/fr/annonce/4371635-stage-retail-shops-bij-center-parcs-de-huttenheugte-7751-sh-dalen) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=luxe&q=Stage+Retail+%26+Shops+bij+Center+Parcs+De+Huttenheugte+Groupe+PVCP&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jobs.workatcenterparcs.com&sz=128" width="18" height="18" align="absmiddle" /> **Center Parcs** | Stage Retail & Shops bij Center Parcs De Huttenheugte | 💼 Stage | Dalen | [Postuler](https://jobs.workatcenterparcs.com/en/annonce/4371635-stage-retail-shops-bij-center-parcs-de-huttenheugte-7751-sh-dalen) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=luxe&q=Stage+Retail+%26+Shops+bij+Center+Parcs+De+Huttenheugte+Center+Parcs&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Magellium Artal Group** | Stage - Vers le jumeau numérique : Reconstruction 3D d'une scène réelle et recalage modèle | 💼 Stage | Ramonville-Saint-Agne | [Postuler](https://taleez.com/apply/stage-vers-le-jumeau-numerique-reconstruction-3d-d-une-scene-reelle-et-recalage-modele-ramonville-saint-agne-magellium-artal-group-2) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=luxe&q=Stage+-+Vers+le+jumeau+num%C3%A9rique+%3A+Reconstruction+3D+d%27une+sc%C3%A8ne+r%C3%A9elle+et+recalage+mod%C3%A8le&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
@@ -348,5 +349,5 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 <div align="center">
   <b>Maintenu par l'équipe <a href="https://www.tryjobshift.com">JobShift</a> (<a href="https://github.com/Jobshift">@Jobshift</a>)</b><br/>
-  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-09</sub>
+  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-10</sub>
 </div>
