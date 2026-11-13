@@ -7,7 +7,7 @@
 [![Offres Actives](https://img.shields.io/badge/Offres_actives-1_500-2EC4B6?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 [![Alternances](https://img.shields.io/badge/Alternances-835-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 [![Stages](https://img.shields.io/badge/Stages-665-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--12-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--13-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 **[⚡ Ouvrir le Radar Interactif + Auto-Apply 1-Clic sur JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)**
 
@@ -349,5 +349,5 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 <div align="center">
   <b>Maintenu par l'équipe <a href="https://www.tryjobshift.com">JobShift</a> (<a href="https://github.com/Jobshift">@Jobshift</a>)</b><br/>
-  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-12</sub>
+  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-13</sub>
 </div>
