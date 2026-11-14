@@ -7,7 +7,7 @@
 [![Offres Actives](https://img.shields.io/badge/Offres_actives-1_500-2EC4B6?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 [![Alternances](https://img.shields.io/badge/Alternances-835-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 [![Stages](https://img.shields.io/badge/Stages-665-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--13-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--14-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 **[⚡ Ouvrir le Radar Interactif + Auto-Apply 1-Clic sur JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)**
 
@@ -30,8 +30,8 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 - [💻 Tech, Data & IA (Développement, Data Science, Cybersécurité, Produit)](#tech) (171 offres)
 - [🏦 Finance, Audit & Contrôle de Gestion](#finance) (42 offres)
 - [📣 Marketing, Digital, Communication & Growth](#marketing) (105 offres)
-- [🤝 Commerce, Business Development & Achats](#commerce) (985 offres)
-- [⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique](#ingenierie) (115 offres)
+- [🤝 Commerce, Business Development & Achats](#commerce) (984 offres)
+- [⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique](#ingenierie) (116 offres)
 - [✨ Luxe, Mode, Retail & Cosmétique](#luxe) (12 offres)
 - [👥 Ressources Humaines, Talent Acquisition & Juridique](#rh) (70 offres)
 
@@ -193,7 +193,6 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Mécanicien.ne en espaces verts (h/f) | 🎓 Alternance | Mérignac | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/ec624e94959c59613f2a1a41818e5f4e) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=M%C3%A9canicien.ne+en+espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Mécanicien.ne en espaces verts (h/f) | 🎓 Alternance | Martillac | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/9e62bddb938e84a33bbf7384997453e7) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=M%C3%A9canicien.ne+en+espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Contrats apprentissage conseiller de vente (H/F) | 🎓 Alternance | Saint-Pierre-d'Irube | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/2bfde37945270eff4050ba56fc61d3d6) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Contrats+apprentissage+conseiller+de+vente+%28H%2FF%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
-| **Deliveroo** | Account Manager - stage | 💼 Stage | Paris | [Postuler](https://job-boards.greenhouse.io/deliveroo/jobs/8202522) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Account+Manager+-+stage+Deliveroo&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Artefact** | (Stage) Assistant Project Manager Hackathons & Innovation - F/H | 💼 Stage | 9th arrondissement of Paris | [Postuler](https://job-boards.greenhouse.io/artefact/jobs/8909109002) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=%28Stage%29+Assistant+Project+Manager+Hackathons+%26+Innovation+-+F%2FH+Artefact&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **SELLENS** | Alternant Assistant SAV (H/F) | 🎓 Alternance | Toulon | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/o85uh96m9i8/alternant-assistant-sav) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternant+Assistant+SAV+%28H%2FF%29+SELLENS&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Jeff de Bruges** | Alternance - Conseiller de Vente (H/F) | 🎓 Alternance | Lyon 3e Arrondissement | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/chnkpfv1cy8/alternance-conseiller-de-vente-h-f) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternance+-+Conseiller+de+Vente+%28H%2FF%29+Jeff+de+Bruges&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
@@ -228,6 +227,7 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | **Défi RH** | Alternant Conseiller Client (H/F) Issy-les-Moulineaux (92) | 🎓 Alternance | Issy-les-Moulineaux | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/m4s6s367nk8/alternant-conseiller-client-h-f-issy-les-moulineaux-92) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternant+Conseiller+Client+%28H%2FF%29+Issy-les-Moulineaux+%2892%29+D%C3%A9fi+RH&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Groupe Coopératif AGAPI** | Apprenti(e) EJE H/F | 🎓 Alternance | Noisy-le-Sec | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/i8xhv5dbih8/apprenti-e-eje-h-f) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Apprenti%28e%29+EJE+H%2FF+Groupe+Coop%C3%A9ratif+AGAPI&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **VOLATYS** | Alternance - Commercial Industrie (F/H) | 🎓 Alternance | Saint-Grégoire | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/v6g3wdvl388/alternance-commercial-industrie-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternance+-+Commercial+Industrie+%28F%2FH%29+VOLATYS&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
+| **Défi RH** | Alternant Assistant Commercial (F/H) | 🎓 Alternance | Arcueil | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/15337sce2b8/alternant-assistant-commercial-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternant+Assistant+Commercial+%28F%2FH%29+D%C3%A9fi+RH&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 
 <a id="ingenierie"></a>
 ## ⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique
@@ -349,5 +349,5 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 <div align="center">
   <b>Maintenu par l'équipe <a href="https://www.tryjobshift.com">JobShift</a> (<a href="https://github.com/Jobshift">@Jobshift</a>)</b><br/>
-  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-13</sub>
+  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-14</sub>
 </div>
