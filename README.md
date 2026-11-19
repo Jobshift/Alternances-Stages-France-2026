@@ -5,9 +5,9 @@
 ### Le répertoire open-source des **vraies** offres d'Alternance et de Stage en France, propulsé par [JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 [![Offres Actives](https://img.shields.io/badge/Offres_actives-1_500-2EC4B6?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Alternances](https://img.shields.io/badge/Alternances-833-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Stages](https://img.shields.io/badge/Stages-667-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
-[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--18-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Alternances](https://img.shields.io/badge/Alternances-837-2563eb?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=alternance&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Stages](https://img.shields.io/badge/Stages-663-7c3aed?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?kind=stage&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
+[![Mise à jour](https://img.shields.io/badge/Mise_%C3%A0_jour-2026--11--19-111827?style=for-the-badge)](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)
 
 **[⚡ Ouvrir le Radar Interactif + Auto-Apply 1-Clic sur JobShift](https://www.tryjobshift.com/alternances-2026?utm_source=github&utm_medium=repo&utm_campaign=alternances_2026)**
 
@@ -27,10 +27,10 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 ## Sommaire par domaine
 
-- [💻 Tech, Data & IA (Développement, Data Science, Cybersécurité, Produit)](#tech) (173 offres)
-- [🏦 Finance, Audit & Contrôle de Gestion](#finance) (42 offres)
-- [📣 Marketing, Digital, Communication & Growth](#marketing) (103 offres)
-- [🤝 Commerce, Business Development & Achats](#commerce) (979 offres)
+- [💻 Tech, Data & IA (Développement, Data Science, Cybersécurité, Produit)](#tech) (172 offres)
+- [🏦 Finance, Audit & Contrôle de Gestion](#finance) (40 offres)
+- [📣 Marketing, Digital, Communication & Growth](#marketing) (104 offres)
+- [🤝 Commerce, Business Development & Achats](#commerce) (981 offres)
 - [⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique](#ingenierie) (121 offres)
 - [✨ Luxe, Mode, Retail & Cosmétique](#luxe) (12 offres)
 - [👥 Ressources Humaines, Talent Acquisition & Juridique](#rh) (70 offres)
@@ -45,9 +45,9 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | Entreprise | Poste | Contrat | Ville | Candidature |
 | :--- | :--- | :--- | :--- | :--- |
 | <img src="https://www.google.com/s2/favicons?domain=axionecarrieres.csod.com&sz=128" width="18" height="18" align="absmiddle" /> **Axione** | CONDUCTEUR TRAVAUX DATA CENTER STAGIAIRE H/F | 💼 Stage | Pau | [Postuler](https://axionecarrieres.csod.com/ux/ats/careersite/1/home/requisition/150?c=axionecarrieres) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=CONDUCTEUR+TRAVAUX+DATA+CENTER+STAGIAIRE+H%2FF+Axione&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
+| <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Ouvrier / ouvrière en paysage spécialisé.e en création d'espaces verts (h/f) | 🎓 Alternance | Gradignan | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/30f170009b54436603d7b119b116856d) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Ouvrier+%2F+ouvri%C3%A8re+en+paysage+sp%C3%A9cialis%C3%A9.e+en+cr%C3%A9ation+d%27espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Mirakl** | Data & People analytics Apprentice - January 2027 | 🎓 Alternance | Paris | [Postuler](https://job-boards.greenhouse.io/mirakl/jobs/4846754004) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Data+%26+People+analytics+Apprentice+-+January+2027+Mirakl&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Ouvrier / ouvrière en paysage spécialisé.e en entretien d'espaces verts (h/f) | 🎓 Alternance | Eysines | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/27154e4804af7e1674d93af17fcbc418) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Ouvrier+%2F+ouvri%C3%A8re+en+paysage+sp%C3%A9cialis%C3%A9.e+en+entretien+d%27espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
-| <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Ouvrier / ouvrière en paysage spécialisé.e en création d'espaces verts (h/f) | 🎓 Alternance | Gradignan | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/30f170009b54436603d7b119b116856d) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Ouvrier+%2F+ouvri%C3%A8re+en+paysage+sp%C3%A9cialis%C3%A9.e+en+cr%C3%A9ation+d%27espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Ouvrier / ouvrière en paysage spécialisé.e en entretien d'espaces verts (h/f) | 🎓 Alternance | Cestas | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/da9b1c28570428fb1ffceece5e550adb) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Ouvrier+%2F+ouvri%C3%A8re+en+paysage+sp%C3%A9cialis%C3%A9.e+en+entretien+d%27espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **OPTIMA** | Apprenti(e) Médiateur (trice) social(e)-Nantes-Formation MSADS (H/F) | 🎓 Alternance | 44162 | [Postuler](https://careers.werecruit.io/fr/optima/offres/apprenti-mediateur-social--apprentie-mediatrice-sociale-a-nantes-44-novembre-2026---formation-msads-a-saint-herblain-44-13db63) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Apprenti%28e%29+M%C3%A9diateur+%28trice%29+social%28e%29-Nantes-Formation+MSADS+%28H%2FF%29+OPTIMA&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **VYV 3** | Mandataire Judiciaire à la Protection des Majeurs - Alternance F/H | 🎓 Alternance | Nevers | [Postuler](https://app.beetween.com/WeaselWeb/p/?utm_source=hellowork-career-site#/apply/job/vauk8bf4ke5gn/mandataire-judiciaire-a-la-protection-des-majeurs-alternance-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=tech&q=Mandataire+Judiciaire+%C3%A0+la+Protection+des+Majeurs+-+Alternance+F%2FH+VYV+3&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
@@ -131,7 +131,7 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | **EXCO** | Assistant collaborateur comptable  - Stage - Paris 12 | 💼 Stage | — | [Postuler](https://careers.flatchr.io/fr/company/exco/vacancy/r8q3bp4j8d5n0rmg-reviseur-comptable-stage-paris-12/) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=finance&q=Assistant+collaborateur+comptable++-+Stage+-+Paris+12+EXCO&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **EXCO** | STAGE ASSISTANT COMPTABLE | 💼 Stage | — | [Postuler](https://careers.flatchr.io/fr/company/exco/vacancy/z7gwqnjajmxdjrak-stage-assistant-comptable/) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=finance&q=STAGE+ASSISTANT+COMPTABLE+EXCO&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=photosol.com&sz=128" width="18" height="18" align="absmiddle" /> **Photosol** | Stage - Strategic Finance Analyst (F/H) | 💼 Stage | Paris | [Postuler](https://photosol.teamtailor.com/jobs/7967246-stage-strategic-finance-analyst-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=finance&q=Stage+-+Strategic+Finance+Analyst+%28F%2FH%29+Photosol&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
-| <img src="https://www.google.com/s2/favicons?domain=credit-agricole.com&sz=128" width="18" height="18" align="absmiddle" /> **Crédit Agricole** | Stage - Finance Durable (H/F) | 💼 Stage | Paris | [Postuler](https://recrutement.ca-paris.fr/jobs/7215167-stage-finance-durable-h-f) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=finance&q=Stage+-+Finance+Durable+%28H%2FF%29+Cr%C3%A9dit+Agricole&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
+| <img src="https://www.google.com/s2/favicons?domain=aplitec.com&sz=128" width="18" height="18" align="absmiddle" /> **Aplitec** | Stage Fin d'études - Audit - Janvier 2027 | 💼 Stage | Paris | [Postuler](https://aplitec.teamtailor.com/jobs/8324002-stage-fin-d-etudes-audit-janvier-2027) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=finance&q=Stage+Fin+d%27%C3%A9tudes+-+Audit+-+Janvier+2027+Aplitec&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 
 <a id="marketing"></a>
 ## 📣 Marketing, Digital, Communication & Growth
@@ -188,6 +188,7 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 | Entreprise | Poste | Contrat | Ville | Candidature |
 | :--- | :--- | :--- | :--- | :--- |
+| **Artefact** | AI Strategy Intern - Paris | 💼 Stage | 9th arrondissement of Paris | [Postuler](https://job-boards.greenhouse.io/artefact/jobs/8785408002) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=AI+Strategy+Intern+-+Paris+Artefact&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Contrats apprentissage conseiller de vente (H/F) | 🎓 Alternance | Bayonne | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/025d9496cbf0fcb020cd0d1042ba0315) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Contrats+apprentissage+conseiller+de+vente+%28H%2FF%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Ouvrier / ouvrière en paysage aménagement et entretien (h/f) | 🎓 Alternance | Saint-Jean-d'Illac | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/61587d4989ea62ce9c80a6fd1f61e5a2) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Ouvrier+%2F+ouvri%C3%A8re+en+paysage+am%C3%A9nagement+et+entretien+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | <img src="https://www.google.com/s2/favicons?domain=jj-tracker.com&sz=128" width="18" height="18" align="absmiddle" /> **—** | Mécanicien.ne en espaces verts (h/f) | 🎓 Alternance | Mérignac | [Postuler](https://www.jj-tracker.com/fr/permalink/1249/ec624e94959c59613f2a1a41818e5f4e) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=M%C3%A9canicien.ne+en+espaces+verts+%28h%2Ff%29+%E2%80%94&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
@@ -227,7 +228,6 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 | **Défi RH** | Alternant Conseiller Client (H/F) Issy-les-Moulineaux (92) | 🎓 Alternance | Issy-les-Moulineaux | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/m4s6s367nk8/alternant-conseiller-client-h-f-issy-les-moulineaux-92) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternant+Conseiller+Client+%28H%2FF%29+Issy-les-Moulineaux+%2892%29+D%C3%A9fi+RH&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **Groupe Coopératif AGAPI** | Apprenti(e) EJE H/F | 🎓 Alternance | Noisy-le-Sec | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/i8xhv5dbih8/apprenti-e-eje-h-f) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Apprenti%28e%29+EJE+H%2FF+Groupe+Coop%C3%A9ratif+AGAPI&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 | **VOLATYS** | Alternance - Commercial Industrie (F/H) | 🎓 Alternance | Saint-Grégoire | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/v6g3wdvl388/alternance-commercial-industrie-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternance+-+Commercial+Industrie+%28F%2FH%29+VOLATYS&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
-| **Défi RH** | Alternant Assistant Commercial (F/H) | 🎓 Alternance | Arcueil | [Postuler](https://app.beetween.com/WeaselWeb/p/#/apply/job/15337sce2b8/alternant-assistant-commercial-f-h) · [⚡ Auto-Apply](https://www.tryjobshift.com/alternances-2026?domain=commerce&q=Alternant+Assistant+Commercial+%28F%2FH%29+D%C3%A9fi+RH&utm_source=github&utm_medium=repo&utm_campaign=alternances_2026) |
 
 <a id="ingenierie"></a>
 ## ⚙️ Ingénierie, Industrie, Supply Chain & Aéronautique
@@ -349,5 +349,5 @@ Inspiré du modèle américain de **SimplifyJobs** (`Summer2026-Internships`), c
 
 <div align="center">
   <b>Maintenu par l'équipe <a href="https://www.tryjobshift.com">JobShift</a> (<a href="https://github.com/Jobshift">@Jobshift</a>)</b><br/>
-  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-18</sub>
+  <sub>1500 offres actives · Dernière mise à jour automatique : 2026-11-19</sub>
 </div>
